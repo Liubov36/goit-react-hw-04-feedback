@@ -30,6 +30,6 @@ export const Button = styled.button`
   &:hover,
   &:focus {
     border: solid;
-    border-color: blue;
+    border-color: #6969ce;
   }
 `;
